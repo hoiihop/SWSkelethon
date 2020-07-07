@@ -27,7 +27,7 @@ s.xcconfig = { 'SWIFT_VERSION' => '4.0' }
 
 s.dependency 'Alamofire', '4.5.1'
 s.dependency 'AlamofireImage', '3.3'
-s.dependency 'RxCocoa', '~> 4.0.0-beta.0'
-s.dependency 'RxSwift', '~> 4.0.0-beta.0'
+s.dependency 'RxCocoa', '~> 4.5.0'
+s.dependency 'RxSwift', '~> 4.5.0'
 s.dependency 'RealmSwift', '2.10.2'
 end
